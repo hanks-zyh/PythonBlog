@@ -1,0 +1,2 @@
+# PythonBlog
+Just learn Python
